@@ -1,10 +1,10 @@
 # Animated Art III
-Moving album art using p5.js. To view, go to site: http://www.mnl.space/Animated-Art-III/
+Moving art using p5.js. To view, go to site: http://www.mnl.space/Animated-Art-III/
 
 ![Animated-Art-III](Animated-Art-III.gif)
 
 ## CDN
-p5js has a CDN which is an online version of the files you can embed:
+Using p5js [CDN online files](https://p5js.org/get-started/#hosted):
 
 ![image](https://user-images.githubusercontent.com/10030407/195968354-ad9c7c44-d317-4951-9581-e0097710d88c.png)
 
